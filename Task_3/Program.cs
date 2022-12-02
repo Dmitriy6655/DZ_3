@@ -52,7 +52,7 @@ void PrintArray (int[] Array)
    
     for (int s = 0; s <= Array.Length; s++)
     {
-        Console.WriteLine($"{Array[s]} ");
+        Console.WriteLine($"{Array[s]}");
             
     }
     
