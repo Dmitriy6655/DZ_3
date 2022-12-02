@@ -13,23 +13,22 @@ if (!numeral || N <= 0 )
   Console.WriteLine("Значение не корректно!"); 
 }
 
-
+// //считаем количестов цифр в числе:
+int digitCount = (int)Math.Log10(N) + 1;
 
 // заполняем массив из метода
-int[] numerals = Calculate(N);
+int[] numerals = Calculate(N, digitCount);
 
 //Вызываем метод печати
-PrintArray(numerals);
+PrintArray(numerals, digitCount);
 
 
-//Создаем метод Calculate (заполняет массив цифрами числа)
-int [] Calculate(int N)
+//Создаем МЕТОД Calculate (заполняет массив цифрами числа)
+int [] Calculate(int N, int digitCount)
 {
 
 int numeral = 0;
 
-//считаем количестов цифр в числе:
-int digitCount = (int)Math.Log10(N) + 1;
 
 //создаем массив с длиной digitCount
 int[] numeralsLocal = new int[digitCount];
@@ -48,10 +47,10 @@ return numeralsLocal;
 
 
 
-// СОЗДАЕМ метод печати
-void PrintArray (int[] numerals)
+// СОЗДАЕМ МЕТОД печати
+void PrintArray (int[] numerals, int digitCount)
 {
-  int digitCount = (int)Math.Log10(N) + 1;
+  
    for (int n = 0; n <= (digitCount-1)/2; n++)
 {
    if(numerals[(digitCount-1)-n] == numerals[n])
