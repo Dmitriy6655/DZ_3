@@ -32,7 +32,7 @@ Console.WriteLine(Distance);
 double DistanceBetweenPoints(double Ax, double Ay, 
                             double Az, double Bx, 
                             double By, double Bz )
-{
+    {
    
     double sum = Math.Pow((Bx-Ax),2) + Math.Pow((By-Ay),2) + Math.Pow((Bz-Az),2);
     
@@ -40,9 +40,4 @@ double DistanceBetweenPoints(double Ax, double Ay,
    
     return distance;
 
-    for( int i = 0; i < 2; i++)
-    {
-        Console.WriteLine("distance равно:");
-        Console.WriteLine(distance);
-    }
-}
+   }
