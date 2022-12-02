@@ -5,7 +5,7 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("Введите число");
+Console.Write("Введите число: ");
 int number_IN = int.Parse(Console.ReadLine());
 
 //создаем МАССИВ:
@@ -20,10 +20,8 @@ PrintArray(Array);
 int [] CubeTable (int number_IN )
 {
     int count = 0;
-    int num = number_IN;
-    //Console.WriteLine($"number_IN равно {number_IN}");
- 
-     int number_cube = 1; 
+    //int num = number_IN;
+    int number_cube = 1; 
     
 
 //определяем количество чисел возведенных в 3 степень от 1 до  number_IN:
@@ -31,11 +29,7 @@ int [] CubeTable (int number_IN )
     {
         number_cube = r * r * r;
         count++;
-        // Console.WriteLine("number_cube равно:");
-        // Console.WriteLine(number_cube);
-        // Console.WriteLine("count равно:");
-        // Console.WriteLine(count);
-                
+                     
     }
      
      //создаем локальный массив для заполения числами
@@ -47,9 +41,7 @@ int [] CubeTable (int number_IN )
         {           
             
             local_array[q-1] = q *q *q; 
-           
-            // Console.WriteLine("number_cube равно:");
-            // Console.WriteLine(number_cube);
+                     
         }
     
 return local_array;
@@ -57,10 +49,13 @@ return local_array;
 
 void PrintArray (int[] Array)
 {
+   
     for (int s = 0; s <= Array.Length; s++)
     {
-        Console.Write($"{Array[s]} ");
-        
+        Console.WriteLine($"{Array[s]} ");
+            
     }
+    
 Console.WriteLine();
+
 }

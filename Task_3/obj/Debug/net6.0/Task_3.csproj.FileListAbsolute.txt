@@ -13,3 +13,18 @@ G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_3\obj\D
 G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_3\obj\Debug\net6.0\Task_3.pdb
 G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
 G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_3\obj\Debug\net6.0\ref\Task_3.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\ДЗ\2 ЧЕТВЕРТЬ C#\DZ_3\Task_3\obj\Debug\net6.0\ref\Task_3.dll
