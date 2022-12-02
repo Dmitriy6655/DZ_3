@@ -1,0 +1,15 @@
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\bin\Debug\net6.0\Task_2.exe
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\bin\Debug\net6.0\Task_2.deps.json
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\bin\Debug\net6.0\Task_2.dll
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\bin\Debug\net6.0\Task_2.pdb
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.dll
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.pdb
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+G:\ДИСК Д\УЧЕБА GB 2022\ДЗ\2 четверть 2022\DZ_3\Task_2\obj\Debug\net6.0\ref\Task_2.dll
